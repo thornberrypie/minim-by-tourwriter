@@ -1,1 +1,1 @@
-# minim-by-tourwriter
+# Minim by Tourwriter - Wordpress plugin
